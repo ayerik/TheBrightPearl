@@ -1,0 +1,51 @@
+body
+{
+	background: 					#910C00;
+}
+
+p
+{
+
+}
+
+img
+{
+	margin:							95px 195px;
+}
+
+.pearl
+{
+	background: 					#192E06;
+	width:							600px;
+	height:							400px;
+	margin:							100px 300px 20px 300px;
+	padding:						20px;
+}
+
+.text
+{
+
+}
+
+.title
+{
+	margin:							20px 225px 20px 225px;
+	background:						#FFD000;
+	padding:						10px 75px 10px 75px;
+	font-family: 					"Segoe Script", Comic, Tahoma, sans-serif;
+	font-size: 						25pt;
+	text-align: 					center;
+}
+
+.story
+{
+	background-color: 				#FFD000;
+	width:							590px;
+	margin:							20px 225px 20px 225px;
+	padding:						30px;
+	border-width:					75px;
+	border-image:					url(yinyang.jpg);
+	-webkit-border-image-repeat:	round; 
+	font-family: 					"Segoe Script", Comic, Tahoma, sans-serif;
+	font-size:						16pt;
+}
